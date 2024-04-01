@@ -1,10 +1,14 @@
 
+import Demo from "./Demo"
 
 function App() {
-  
 
   return (
-   <h1>Hello from Vite React</h1>
+    <>
+      <Demo />
+      <h1>Hello from the from Demo Chai vala</h1>
+      <p>pratham is ready to learn the react</p>
+    </>
   )
 }
 

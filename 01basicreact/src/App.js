@@ -1,9 +1,12 @@
 
-
+import Demo2 from "./Demo2";
 
 function App() {
   return (
-    <h1>Hello React</h1>
+    <>
+      <Demo2 />
+      <h1>Hello React</h1>
+    </>
   );
 }
 
