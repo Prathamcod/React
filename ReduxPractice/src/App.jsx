@@ -7,8 +7,8 @@ import Navbar from "./components/Navbar"
 function App() {
 
   return (
-    <>
-      <Navbar />
+    <> 
+     <Navbar />
       <main>
         Welcome To My first React App Website
       </main>
