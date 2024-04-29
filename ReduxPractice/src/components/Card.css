@@ -1,0 +1,49 @@
+.PricePop {
+    width: 700px;
+    height: auto;
+    margin: auto;
+    background-color: whitesmoke;
+    border: 2px solid red;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cardItem1 {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.subcard {
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+}
+
+.ProductInf {
+    margin-top: 10px;
+}
+
+.ProductName {}
+
+.Decrement {
+    width: 50px;
+    height: 50px;
+    border: 2px solid yellow;
+    background-color: white;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.Increment {
+    width: 50px;
+    height: 50px;
+    border: 2px solid yellow;
+    background-color: white;
+    font-size: 1.5rem;
+    color: black;
+}

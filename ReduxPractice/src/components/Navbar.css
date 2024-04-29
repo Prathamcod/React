@@ -1,0 +1,41 @@
+.Navbar{
+    position: sticky;
+    top: 15;
+    
+}
+nav,
+ul {
+    display: flex;
+   
+}
+
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    gap: 34px;
+}
+
+nav {
+    background-color: beige;
+    padding: 20px 10px 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+button {
+    padding: 8px 20px 8px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    background-color: blue;
+    color:white
+}
